@@ -2,9 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus" /> </p>
 <h3 align="center">Skilled in Data Science, Machine Learning, Deep Learning, As Well As Basic Basic Web Development Knowledge. Strong professional with a Master's Diploma in Data Science.</h3>
 
-- 👨‍💻 All of my projects are available at [http://codeperfectplus.herokuapp.com/projects/](http://codeperfectplus.herokuapp.com/projects/)
+- 👨‍💻 All of my projects are available at [Projects](http://codeperfectplus.herokuapp.com/projects/)
 
-- 📝 I regulary write articles on [http://codeperfectplus.herokuapp.com](http://codeperfectplus.herokuapp.com)
+- 📝 I regulary write articles on [CodePerfectPlus](http://codeperfectplus.herokuapp.com)
 
 - 📫 How to reach me **codeperfectplus@gmail.com**
 
