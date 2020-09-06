@@ -30,6 +30,8 @@ Skilled in Data Science, Machine Learning, Deep Learning, As Well As Basic Basic
 </a>
 </br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
