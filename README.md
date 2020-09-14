@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Codeperfectplus</h1>
 <p align="center">
-<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen"/>
+<a href="https://github.com/codeperfectplus/codeperfectplus/blob/master/LICENCE">
+<img alt="Licence" src="https://img.shields.io/github/license/codeperfectplus/codeperfectplus?color=brightgreen"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=codeperfectplus&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/codeperfectplus/codeperfectplus?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  <a href="https://github.com/codeperfectplus/codeperfectplus/actions">
   </a>
 </p>
@@ -22,7 +22,7 @@ Skilled in Data Science, Machine Learning, Deep Learning, As Well As Basic Basic
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/KarthikNayak024">
+<a href="https://github.com/codeperfectplus">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/codeperfectplus/github-readme-stats">
