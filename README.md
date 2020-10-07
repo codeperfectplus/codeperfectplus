@@ -39,7 +39,7 @@ Skilled in Data Science, Machine Learning, Deep Learning, As Well As Basic Basic
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 
-![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=django)
 ![Machine learning](https://img.shields.io/badge/-Machine_Learning-green?style=for-the-badge)
 ![Deep learning](https://img.shields.io/badge/-Deep_Learning-orange?style=for-the-badge)
