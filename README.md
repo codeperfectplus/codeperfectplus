@@ -46,7 +46,7 @@
 ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-#### Frontend
+#### Web Development
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -69,9 +69,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=gruvbox" alt="trophy">
-
-
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=white" alt="trophy">
 
 <!--Footer-->
 <hr>
