@@ -11,14 +11,14 @@
 [![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/JfbK3bS)
 </p>
 
+<img align="right" src="./assets/img/programmer.gif" alt="gif">
+
 ## About Me 😎
 
 - 🔭 I’m currently working on ... <b>Machine Learning & Web Development</b>
 - 🌱 I’m currently learning ... <b>Machine Learning</b>
 - 👯 I’m looking to collaborate on ... <b>Python projects  & Web projects</b>
 - 🤔 I’m looking for help with ... <b>Deep learning</b>
-
-<img align="right" src="./assets/img/programmer.gif" alt="gif">
 
 <!-- Language and tools badge-->
 ## 🛠️ **Languages & Tools:**
