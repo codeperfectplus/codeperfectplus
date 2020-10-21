@@ -1,6 +1,17 @@
 <img src="./assets/img/header.jpg">
 
-## About Me 
+<!--Social Channel-->
+<p align="center">
+
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-raj-35887386/)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak008@live.com)
+[![Dev to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](http://dev.to/codeperfectplus)
+![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/codeperfectplus)
+[![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/JfbK3bS)
+</p>
+
+## About Me 😎
 
 - 🔭 I’m currently working on ... <b>Machine Learning & Web Development</b>
 - 🌱 I’m currently learning ... <b>Machine Learning</b>
@@ -60,19 +71,7 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=gruvbox" alt="trophy">
 
-<!--Social Channel-->
-<p align="center">
 
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-raj-35887386/)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak008@live.com)
-[![Dev to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](http://dev.to/codeperfectplus)
-![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/codeperfectplus)
-[![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/JfbK3bS)
-
-
-</p>
 
 <!--Footer-->
 <hr>
