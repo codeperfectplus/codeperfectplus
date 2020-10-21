@@ -3,10 +3,10 @@
 <!--Social Channel-->
 <p align="center">
 
-![Blog](https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&style=for-the-badge&logo=&logoColor=white)
+[![Blog](https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)](http://codeperfectplus.herokuapp.com/)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-raj-35887386/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak008@live.com)
-[![Dev to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](http://dev.to/codeperfectplus)
+[![Dev to](https://img.shields.io/badge/DEV.TO-%231572B6.svg?&style=for-the-badge&logo=dev%20to&logoColor=white)](http://dev.to/codeperfectplus)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/codeperfectplus)
 [![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/JfbK3bS)
 ![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
