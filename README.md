@@ -17,9 +17,9 @@
 
 ## **About Me** 😎
 
-- 🔭 I’m currently working on ... <b>Machine Learning & Web Development</b>
-- 🌱 I’m currently learning ... <b>Machine Learning</b>
-- 👯 I’m looking to collaborate on ... <b>Python projects  & Web projects</b>
+- 🔭 I’m currently working on ... <b>Computer Vision & Deep Learning</b>
+- 🌱 I’m currently learning ... <b>Image segmentation</b>
+- 👯 I’m looking to collaborate on ... <b>Computer vision projects</b>
 - 🤔 I’m looking for help with ... <b>Deep learning</b>
 
 <!-- Language and tools badge-->
