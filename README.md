@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning ... <b>Image segmentation</b>
 - 👯 I’m looking to collaborate on ... <b>Computer vision projects</b>
 - 🤔 I’m looking for help with ... <b>Deep learning</b>
-- 🤩 I'm excited for IOT.
+- 🤩 I'm excited for <b>IOT.</b>
 
 <!-- Language and tools badge-->
 ## 🛠️ **Languages & Tools:**
