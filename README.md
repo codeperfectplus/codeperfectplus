@@ -1,6 +1,6 @@
 ## About me
 
-```python
+<pre><code language="python" theme="dracula">
 from life import Creativity
 
 class Life(Creativity):
@@ -19,7 +19,7 @@ class Life(Creativity):
 if '__repo__' == '__helpful__':
     star.it()
     fork.it()
-```
+</code></pre>
 
 <!--Social Channel-->
 <p align="center">
