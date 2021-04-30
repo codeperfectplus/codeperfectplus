@@ -69,7 +69,8 @@ if '__repo__' == '__helpful__':
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
 <!-- Github Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
 
 <!--Footer-->
 <hr>
