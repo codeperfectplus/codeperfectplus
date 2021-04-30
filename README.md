@@ -1,8 +1,22 @@
-<img src="./assets/img/header.jpg">
+## About me
+
+```python
+import Life
+from world import creativity
+
+lyf = Life(creativity)
+
+lyf.working_on = "Computer vision & Deep Learning 📚"
+lyf.currently_learning = "Imgage segmentation 🌱"
+lyt.excited_for = "Internt of Things 🌎"
+
+if __star__ == '__fork__':
+    lyf.run(smoothly)
+```
 
 <!--Social Channel-->
 <p align="center">
-
+  
 [![Blog](https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)](http://codeperfectplus.herokuapp.com/)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-raj-35887386/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepak008@live.com)
@@ -10,18 +24,10 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/codeperfectplus)
 [![Discord Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/JfbK3bS)
 ![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-
 </p>
 
+<!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif">
-
-## **About Me** 😎
-
-- 🔭 I’m currently working on ... <b>Computer Vision & Deep Learning</b>
-- 🌱 I’m currently learning ... <b>Image segmentation</b>
-- 👯 I’m looking to collaborate on ... <b>Computer vision projects</b>
-- 🤔 I’m looking for help with ... <b>Deep learning</b>
-- 🤩 I'm excited for <b>IOT.</b>
 
 <!-- Language and tools badge-->
 ## 🛠️ **Languages & Tools:**
@@ -56,9 +62,8 @@
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 
+<!-- Github Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=white" alt="trophy">
 
 <!--Footer-->
 <hr>
