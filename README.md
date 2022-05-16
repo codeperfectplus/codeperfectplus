@@ -7,6 +7,7 @@ class Life(Creativity):
     def __init_life__(self):
         self.current_job_title = "Associate Data Scientist"
         self.open_for_opportunity = True
+        self.current_company = "Scry Analytics"
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
