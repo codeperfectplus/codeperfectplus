@@ -1,2 +1,3 @@
 this is a personal profile of the author, not a review of the book.
 this is a personal profile of the author, not a review of the book.
+git commit --amend --date="YYYY-MM-DD HH:MM:SS"
