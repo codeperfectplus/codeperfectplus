@@ -4,14 +4,14 @@
 from life import Creativity
 
 class Life(Creativity):
-    def __init_life__(self):
+    def __init__(self):
         self.current_job_title = "Associate Data Scientist"
         self.open_for_opportunity = True
         self.current_company = "Scry Analytics"
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
-        self.currently_working_on = "Imgage segmentation 🌱"
+        self.currently_working_on = "Computer Vision 🌱"
         self.excited_for = "Internt of Things 🌎"
     
     def contact_me(self):
