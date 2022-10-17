@@ -71,7 +71,6 @@ if '__repo__' == '__helpful__':
 
 ## Project maintainer 
 
-<img align="right" src="assets\img\py-contributors-logo.png">
 
 | Project | Description  | PyPi Package |
 | --- | --- | --- |
