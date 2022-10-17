@@ -1,4 +1,4 @@
-## About me
+## Know Me
 
 ```python
 from life import Creativity
@@ -69,7 +69,9 @@ if '__repo__' == '__helpful__':
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
 
 
-## Project maintainer
+## Project maintainer 
+
+<img align="right" src="assets\img\py-contributors-logo.png">
 
 | Project | Description  | PyPi Package |
 | --- | --- | --- |
