@@ -5,9 +5,16 @@ from life import Creativity
 
 class Life(Creativity):
     def __init__(self):
+        self.founder = "Py-Contributors"
         self.current_job_title = "Associate Data Scientist"
-        self.open_for_opportunity = True
         self.current_company = "Scry Analytics"
+        self.current_location = "Gurgaon, India" 
+        self.current_languages = "Python, Javascript, SQL, HTML, CSS"
+        self.current_frameworks = "Django, Flask, Bootstrap, React, Tensorflow, Keras, PyTorch"
+        self.current_databases = "MySQL, PostgreSQL, MongoDB, Redis"
+        self.current_cloud = "AWS, Heroku"
+        self.current_ide = "PyCharm, VS Code, Jupyter Notebook"
+        self.current_os = "Windows, Linux"
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
@@ -66,9 +73,9 @@ if '__repo__' == '__helpful__':
 
 | Project | Description  | PyPi Package |
 | --- | --- | --- |
-| [cybel-discord.py](https://github.com/Py-Contributors/cybel-discord.py) | A discord bot for the cybel community | :x: |
+| [Cybel](https://github.com/Py-Contributors/cybel) | A discord bot for the cybel community | :x: |
 | [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | :white_check_mark: |
-| [dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark:|
+| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark:|
 | [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark:|
 | [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark:|
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | A dashboard to track stock prices  | :x: |
@@ -81,7 +88,8 @@ if '__repo__' == '__helpful__':
 | Project | Description  |
 | --- | --- |
 | [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
-
+| Hacktoberfest | Open Source Contribution 2020-21-22 |
+| HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
 
 <!-- Github Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
