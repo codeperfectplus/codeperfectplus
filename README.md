@@ -102,11 +102,7 @@ if '__repo__' == '__helpful__':
 | Hacktoberfest | Open Source Contribution 2020-21-22 |
 | HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
 
-<!-- Github Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-
-<!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeperfectplus&layout=compact&theme=blue-white" alt="top languages">
+## Contributing
 
 <!-- Github Streak -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeperfectplus&theme=blue-white" alt="github streak">
@@ -114,9 +110,14 @@ if '__repo__' == '__helpful__':
 <!-- Github Trophies -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=blue-white" alt="github trophies">
 
-<!-- Github Activity --> 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=codeperfectplus&theme=blue-white" alt="github activity">
+<!-- Github contribution graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=codeperfectplus&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
 
+## 📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&theme=gotham" alt="codeperfectplus" />
 
 
 <!-- Github Profile Views -->
@@ -124,8 +125,8 @@ if '__repo__' == '__helpful__':
   <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus" />
 </p>
 
-<!-- Github contribution graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=codeperfectplus&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
+
+
+<p align="center">Show ❤️ by starring some of the repositories!</p>
+<p align="center">Thank you for visiting my profile! 😊</p>
 
