@@ -73,14 +73,14 @@ if '__repo__' == '__helpful__':
 
 | Project | Description  | PyPi Package |
 | --- | --- | --- |
-| [Cybel](https://github.com/Py-Contributors/cybel) | A discord bot for the cybel community | :x: |
+| [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | :x: |
 | [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | :white_check_mark: |
 | [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark:|
 | [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark:|
 | [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark:|
-| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | A dashboard to track stock prices  | :x: |
-| [AwesomeScripts](https://github.com/Py-Contributors/Stock-Dashboard)| A collection of awesome scripts  | :x: |
-| [FileMoverGUI](https://github.com/Py-Contributors/FileMoverGUI) | A GUI to move files from one folder to another  | :x: |
+| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
+| [AwesomeScripts](https://github.com/Py-Contributors/Stock-Dashboard)| collections for useful python scripts  | :x: |
+| [FileMoverGUI](https://github.com/Py-Contributors/FileMoverGUI) | GUI tool to manage files smartly  | :x: |
 
 
 ## Hackathon Projects
