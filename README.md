@@ -29,13 +29,23 @@ if '__repo__' == '__helpful__':
     fork.it()
 ```
 
+<!-- Github Visitors -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/codeperfectplus/count.svg" />
+</p>
+
 <!--Social Channel-->
 <p align="center"><a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
 <a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 <a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
 <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
-<a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/591914197219016707.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
-<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"></p>
+<a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
+<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
+</p>
+<!-- Github Profile Views -->
+
+
 
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif">
@@ -94,3 +104,28 @@ if '__repo__' == '__helpful__':
 
 <!-- Github Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
+<!-- Top Languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeperfectplus&layout=compact&theme=blue-white" alt="top languages">
+
+<!-- Github Streak -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeperfectplus&theme=blue-white" alt="github streak">
+
+<!-- Github Trophies -->
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=blue-white" alt="github trophies">
+
+<!-- Github Activity --> 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=codeperfectplus&theme=blue-white" alt="github activity">
+
+
+
+<!-- Github Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus" />
+</p>
+
+<!-- Github contribution graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=codeperfectplus&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
