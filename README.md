@@ -61,5 +61,27 @@ if '__repo__' == '__helpful__':
 <p><img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows"></p>
 
+
+## Project maintainer
+
+| Project | Description  | PyPi Package |
+| --- | --- | --- |
+| [cybel-discord.py](https://github.com/Py-Contributors/cybel-discord.py) | A discord bot for the cybel community | :x: |
+| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | :white_check_mark: |
+| [dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark:|
+| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark:|
+| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark:|
+| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | A dashboard to track stock prices  | :x: |
+| [AwesomeScripts](https://github.com/Py-Contributors/Stock-Dashboard)| A collection of awesome scripts  | :x: |
+| [FileMoverGUI](https://github.com/Py-Contributors/FileMoverGUI) | A GUI to move files from one folder to another  | :x: |
+
+
+## Hackathon Projects
+
+| Project | Description  |
+| --- | --- |
+| [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
+
+
 <!-- Github Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
