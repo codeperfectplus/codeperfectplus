@@ -1,7 +1,5 @@
 ## Know Me
 
-![Holopin baord](https://holopin.me/deepak008)
-
 ```python
 from life import Creativity
 
@@ -92,7 +90,7 @@ if '__repo__' == '__helpful__':
 | [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark:|
 | [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark:|
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
-| [AwesomeScripts](https://github.com/Py-Contributors/Stock-Dashboard)| collections for useful python scripts  | :x: |
+| [AwesomeScripts](https://github.com/Py-Contributors/AwesomeScripts)| collections for useful python scripts  | :x: |
 | [FileMoverGUI](https://github.com/Py-Contributors/FileMoverGUI) | GUI tool to manage files smartly  | :x: |
 
 
@@ -103,6 +101,7 @@ if '__repo__' == '__helpful__':
 | [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
 | Hacktoberfest | Open Source Contribution 2020-21-22 |
 | HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
+
 
 ## Contributing
 
