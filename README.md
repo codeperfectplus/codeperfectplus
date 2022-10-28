@@ -78,11 +78,11 @@ if '__repo__' == '__helpful__':
 
 | Project | Description  | PyPi Package |
 | --- | --- | --- |
+| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | :white_check_mark: <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
+| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark: <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
+| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark: <img src="https://img.shields.io/pypi/v/random-profile.svg"> |
+| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark: <img src="https://img.shields.io/pypi/v/site-cloner.svg">|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | :x: |
-| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | :white_check_mark: |
-| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | :white_check_mark:|
-| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |:white_check_mark:|
-| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | :white_check_mark:|
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
 | [AwesomeScripts](https://github.com/Py-Contributors/AwesomeScripts)| collections for useful python scripts  | :x: |
 | [FileMoverGUI](https://github.com/Py-Contributors/FileMoverGUI) | GUI tool to manage files smartly  | :x: |
