@@ -1,4 +1,4 @@
-## Know Me
+## Know Me <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
 
 ```python
 from life import Creativity
@@ -29,11 +29,6 @@ if '__repo__' == '__helpful__':
     fork.it()
 ```
 
-<!-- Github Visitors -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/codeperfectplus/count.svg" />
-</p>
-
 <!--Social Channel-->
 <p align="center"><a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
 <a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
@@ -41,7 +36,6 @@ if '__repo__' == '__helpful__':
 <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
 <a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
 <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
-<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
 </p>
 <!-- Github Profile Views -->
 
