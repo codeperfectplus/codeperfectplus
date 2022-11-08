@@ -76,7 +76,7 @@ if '__repo__' == '__helpful__':
 ## Project maintainer 
 
 
-| Project | Description  | PyPi Package |
+| Project | Description  | Package |
 | --- | --- | --- |
 | [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
 | [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
@@ -87,6 +87,7 @@ if '__repo__' == '__helpful__':
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
 | [AwesomeScripts](https://github.com/Py-Contributors/AwesomeScripts)| collections for useful python scripts  | :x: |
+| [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation | soon |
 
 
 
