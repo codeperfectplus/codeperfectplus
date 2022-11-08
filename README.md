@@ -86,7 +86,6 @@ if '__repo__' == '__helpful__':
 | [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
-| [AwesomeScripts](https://github.com/Py-Contributors/AwesomeScripts)| collections for useful python scripts  | :x: |
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation | soon |
 
 
