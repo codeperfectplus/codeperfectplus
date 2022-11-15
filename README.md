@@ -100,6 +100,7 @@ if '__repo__' == '__helpful__':
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation | soon |
+| [Validator](https://github.com/Py-Contributors/validator.py)| String Validation In python | Soon |
 
 
 ## Hackathon Projects
