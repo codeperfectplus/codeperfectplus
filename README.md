@@ -86,8 +86,7 @@ if '__repo__' == '__helpful__':
 </p>
 
 
-## Project maintainer 
-
+## Projects
 
 | Project | Description  | Package |
 | --- | --- | --- |
