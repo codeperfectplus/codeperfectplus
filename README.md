@@ -41,6 +41,29 @@ if '__repo__' == '__helpful__':
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
 </p>
 
+
+## Open-Source Projects Maintained 
+
+| Project | Description  | Package |
+| --- | --- | --- |
+| [Sanatio](https://github.com/py-contributors/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">|
+| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
+| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
+| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |✅ <img src="https://img.shields.io/pypi/v/random-profile.svg"> |
+| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | ✅ <img src="https://img.shields.io/pypi/v/site-cloner.svg">|
+| [movens](https://github.com/Py-Contributors/movens) | CLI/GUI tool to manage files smartly  | ✅ <img src="https://img.shields.io/pypi/v/movens.svg">|
+| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
+| [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
+| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
+
+## Up Coming Projects
+| Project | Description  |
+| --- | --- |
+| [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation |
+| [Faciem](#) | Face Authenticatio implementation in Tensorflow |
+| [Voicem](#) | Voice Authentication implementation in Tensorflow |
+| [Metrics](#) | ML\DL Metrics implementation in Python |
+
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif">
 
@@ -85,21 +108,6 @@ if '__repo__' == '__helpful__':
     <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows">
 </p>
 
-
-## Projects
-
-| Project | Description  | Package |
-| --- | --- | --- |
-| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
-| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
-| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |✅ <img src="https://img.shields.io/pypi/v/random-profile.svg"> |
-| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | ✅ <img src="https://img.shields.io/pypi/v/site-cloner.svg">|
-| [movens](https://github.com/Py-Contributors/movens) | GUI tool to manage files smartly  | ✅ <img src="https://img.shields.io/pypi/v/movens.svg">|
-| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
-| [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
-| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
-| [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation | soon |
-| [Validator](https://github.com/Py-Contributors/validator.py)| String Validation In python | Soon |
 
 
 ## Hackathon Projects
