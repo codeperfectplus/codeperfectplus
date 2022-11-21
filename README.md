@@ -1,6 +1,6 @@
-## Know Me 
+<h1 align="center">About Me <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/></h1>
 
-<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
+
 
 ```python
 from life import Creativity
@@ -9,14 +9,7 @@ class Life(Creativity):
     def __init__(self):
         self.founder = "Py-Contributors"
         self.current_job_title = "Associate Data Scientist"
-        self.current_company = "Scry Analytics"
-        self.current_location = "Gurgaon, India" 
-        self.current_languages = "Python, Javascript, SQL, HTML, CSS"
-        self.current_frameworks = "Django, Flask, Bootstrap, React, Tensorflow, Keras, PyTorch"
-        self.current_databases = "MySQL, PostgreSQL, MongoDB, Redis"
-        self.current_cloud = "AWS, Heroku"
-        self.current_ide = "PyCharm, VS Code, Jupyter Notebook"
-        self.current_os = "Windows, Linux"
+        self.current_company = "Scry Analytics"  
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
@@ -118,10 +111,6 @@ if '__repo__' == '__helpful__':
 | Hacktoberfest | Open Source Contribution 2020-21-22 |
 | HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
 
-## Contributing
-
-<!-- Github Trophies -->
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=blue-white" alt="github trophies">
-
 <p align="center">Show ❤️ by starring some of the repositories!</p>
 <p align="center">Thank you for visiting my profile! 😊</p>
+
