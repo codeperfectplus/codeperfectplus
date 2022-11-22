@@ -20,11 +20,11 @@ class Life(Creativity):
     def contact_me(self):
         self.email = "deepak008@live.com"
         
-     def star_it(self):
+    def star_it(self):
         if repo.useful:
             return ⭐
      
-     def fork_it(self):
+    def fork_it(self):
         if repo.useful:
             return 🍴
  
