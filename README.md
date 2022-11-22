@@ -33,6 +33,12 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
+## Sponsors
+
+1. <your product/logo/link here>
+2. Mention in every release/PyPI and mention in documentation.
+3. Mention on website(currently under construction) with logo/link
+
 <!--Social Channel-->
 <p align="center">
     <a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
