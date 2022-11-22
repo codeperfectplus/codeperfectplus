@@ -18,10 +18,17 @@ class Life(Creativity):
     
     def contact_me(self):
         self.email = "deepak008@live.com"
+        
+     def star_it(self):
+        if repo.useful:
+            return ⭐
+     def fork_it(self):
+        if repo.useful:
+            return 🍴
  
 if '__repo__' == '__helpful__':
-    star.it('⭐')
-    fork.it('🍴')
+    star_it()
+    fork_it()
 ```
 
 <!--Social Channel-->
