@@ -5,6 +5,7 @@
 ```python
 from life import Creativity
 
+
 class Life(Creativity):
     def __init__(self):
         self.founder = "Py-Contributors"
@@ -22,6 +23,7 @@ class Life(Creativity):
      def star_it(self):
         if repo.useful:
             return ⭐
+     
      def fork_it(self):
         if repo.useful:
             return 🍴
