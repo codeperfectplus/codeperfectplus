@@ -1,5 +1,8 @@
-<h1 align="center">About Me <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/></h1>
+<h1 align="center"><a href="https://codeperfectplus.github.io/">About Me</a></h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
+</p>
 <!--Social Channel-->
 <p align="center">
     <a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
