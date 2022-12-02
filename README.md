@@ -58,6 +58,7 @@ if '__repo__' == '__helpful__':
 | Project | Description  | Package |
 | :---: | :---: | :--- |
 | [Sanatio](https://github.com/py-contributors/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">|
+| [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | ✅ <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|
 | [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
 | [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
 | [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |✅ <img src="https://img.shields.io/pypi/v/random-profile.svg"> |
@@ -66,7 +67,7 @@ if '__repo__' == '__helpful__':
 | [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
-| [Rss Feed](https://github.com/Py-Contributors/RssFeed) | Python Rss Feed Parser | not yet |
+
 
 ## Up Coming Projects
 | Project | Description  |
