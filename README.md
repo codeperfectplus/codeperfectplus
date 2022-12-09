@@ -73,9 +73,9 @@ if '__repo__' == '__helpful__':
 | Project | Description  |
 | --- | --- |
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation |
-| [Faciem](#) | Face Authenticatio implementation in Tensorflow |
-| [Voicem](#) | Voice Authentication implementation in Tensorflow |
-| [Metrics](#) | ML\DL Metrics implementation in Python |
+| [Faciem](https://github.com/Py-Contributors/faciem) | Face Authenticatio implementation in Tensorflow |
+| [Voicem](https://github.com/Py-Contributors/voicem) | Voice Authentication implementation in Tensorflow |
+| [Metrics](https://github.com/codeperfectplus/metrics) | ML\DL Metrics implementation in Python |
 
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif">
