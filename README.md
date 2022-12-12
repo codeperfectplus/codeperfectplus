@@ -51,8 +51,6 @@ if '__repo__' == '__helpful__':
 3. Mention on website(currently under construction) with logo/link
 
 
-
-
 ## Open-Source Projects Maintained 
 
 | Project | Description  | Package |
@@ -75,7 +73,7 @@ if '__repo__' == '__helpful__':
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation |
 | [Faciem](https://github.com/Py-Contributors/faciem) | Face Authenticatio implementation in Tensorflow |
 | [Voicem](https://github.com/Py-Contributors/voicem) | Voice Authentication implementation in Tensorflow |
-| [Metrics](https://github.com/codeperfectplus/metrics) | ML\DL Metrics implementation in Python |
+| [Metrics](https://github.com/Py-Contributors/metrics) | ML\DL Metrics implementation in Python |
 
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif">
@@ -83,12 +81,12 @@ if '__repo__' == '__helpful__':
 ## 🛠️ **Languages & Tools:**
 
 <p>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
 </p>
 <p>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&amp;style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&amp;style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="Sqlite">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?&amp;style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&amp;style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="Sqlite">
 </p>
 <p>
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="Numpy">
@@ -121,8 +119,6 @@ if '__repo__' == '__helpful__':
     <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows">
 </p>
 
-
-
 ## Hackathon Projects
 
 | Project | Description  |
@@ -133,5 +129,3 @@ if '__repo__' == '__helpful__':
 
 <p align="center">Show ❤️ by starring some of the repositories!</p>
 <p align="center">Thank you for visiting my profile! 😊</p>
-
-hhs
