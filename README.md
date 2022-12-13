@@ -1,7 +1,8 @@
 <h1 align="center"><a href="https://codeperfectplus.github.io/">About Me</a></h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
+    <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
+    <img src="https://wakatime.com/badge/user/96547f61-7185-4dff-8afa-c81c6df21320.svg" alt="wakatime"/>
 </p>
 <!--Social Channel-->
 <p align="center">
