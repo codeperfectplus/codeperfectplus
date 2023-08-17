@@ -45,13 +45,6 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
-## Sponsors 📢
-
-1. <your product/logo/link here>
-2. Mention in every release/PyPI and mention in documentation.
-3. Mention on website(currently under construction) with logo/link
-
-
 ## Open-Source Projects Maintained 
 
 | Project | Description  | Package |
