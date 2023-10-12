@@ -76,7 +76,6 @@ if '__repo__' == '__helpful__':
 
 <p>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;ogoColor=white" alt="C++">
 </p>
 <p>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?&amp;style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
