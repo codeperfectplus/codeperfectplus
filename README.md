@@ -58,7 +58,7 @@ if '__repo__' == '__helpful__':
 | [movens](https://github.com/Py-Contributors/movens) | CLI/GUI tool to manage files smartly  | ✅ <img src="https://img.shields.io/pypi/v/movens.svg">|
 | [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
-| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
+| [Stock-Dashboard](https://github.com/codeperfectplus/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
 
 
 ## Up Coming Projects
