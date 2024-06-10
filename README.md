@@ -47,16 +47,18 @@ if '__repo__' == '__helpful__':
 
 ## Open-Source Projects Maintained 
 
+
 | Project | Description  | Package |
-| :---: | :---: | :--- |
-| [Sanatio](https://github.com/py-contributors/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">|
-| [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | ✅ <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|
-| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
-| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
+| :--- | :--- | :--- |
+| [Sanatio](https://github.com/codeperfectplus/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">|
+| [Morseify](https://github.com/codeperfectplus/morseify)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/morseify.svg">|
+| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Lightweight database for Python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
 | [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |✅ <img src="https://img.shields.io/pypi/v/random-profile.svg"> |
+| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
+| [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | ✅ <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|
+| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
 | [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | ✅ <img src="https://img.shields.io/pypi/v/site-cloner.svg">|
 | [movens](https://github.com/Py-Contributors/movens) | CLI/GUI tool to manage files smartly  | ✅ <img src="https://img.shields.io/pypi/v/movens.svg">|
-| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/codeperfectplus/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
 
