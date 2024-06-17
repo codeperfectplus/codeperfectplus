@@ -6,7 +6,6 @@
 </p>
 <!--Social Channel-->
 <p align="center">
-    <a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
     <a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
     <a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
     <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
