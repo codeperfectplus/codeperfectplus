@@ -20,16 +20,13 @@ from life import Creativity
 class Life(Creativity):
     def __init__(self):
         self.founder = "Py-Contributors"
-        self.current_job_title = "Associate Data Scientist"
-        self.current_company = "Scry Analytics"  
+        self.current_job_title = "Data Scientist"
+        self.current_company = "Scry AI, Gurgaon" 
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
         self.currently_working_on = "Computer Vision 🌱"
         self.excited_for = "Internt of Things 🌎"
-    
-    def contact_me(self):
-        self.email = "deepak008@live.com"
         
     def star_it(self):
         if repo.useful:
@@ -120,6 +117,3 @@ if '__repo__' == '__helpful__':
 | [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
 | Hacktoberfest | Open Source Contribution 2020-21-22 |
 | HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
-
-<p align="center">Show ❤️ by starring some of the repositories!</p>
-<p align="center">Thank you for visiting my profile! 😊</p>
