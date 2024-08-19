@@ -1,4 +1,6 @@
-<h1 align="center"><a href="https://codeperfectplus.github.io/">About Me</a></h1>
+<img src=assets/img/header.jpg alt="header">
+
+---
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
@@ -9,8 +11,6 @@
     <a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
     <a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
     <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
-    <a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
 </p>
 
 ```python
@@ -27,7 +27,10 @@ class Life(Creativity):
         self.currently_learning = "Computer vision & Deep Learning 📚"
         self.currently_working_on = "Computer Vision 🌱"
         self.excited_for = "Internt of Things 🌎"
-        
+
+    def open_source_projects(self):
+        self.projects = ["Sanatio", "Morseify", "QuickDB", "Random-Profile-Generator", "AudioBook", "Discord Feed Bot", "Dataset-convertor", "Site-cloner", "movens", "Cybel", "Stock-Dashboard", "Gold Silver Billing"]
+
     def star_it(self):
         if repo.useful:
             return ⭐
@@ -41,25 +44,28 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
+
 ## Open-Source Projects Maintained 
 
 
 | Project | Description  | Package | Total Download|
 | :--- | :--- | :--- | :---:|
-| [Sanatio](https://github.com/codeperfectplus/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">| [![Downloads](https://pepy.tech/badge/sanatio)](https://pepy.tech/project/sanatio)|
-| [Morseify](https://github.com/codeperfectplus/morseify)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/morseify.svg">|[![Downloads](https://pepy.tech/badge/Morseify)](https://pepy.tech/project/Morseify)|
-| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Lightweight database for Python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|[![Downloads](https://pepy.tech/badge/QuickDB)](https://pepy.tech/project/QuickDB)|
-| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |✅ <img src="https://img.shields.io/pypi/v/random-profile.svg"> |[![Downloads](https://pepy.tech/badge/random-profile)](https://pepy.tech/project/random-profile)|
-| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |[![Downloads](https://pepy.tech/badge/AudioBook)](https://pepy.tech/project/AudioBook)|
-| [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | ✅ <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|[![Downloads](https://pepy.tech/badge/discord-feed-bot)](https://pepy.tech/project/discord-feed-bot)|
-| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|[![Downloads](https://pepy.tech/badge/dataset-convertor)](https://pepy.tech/project/dataset-convertor)|
-| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | ✅ <img src="https://img.shields.io/pypi/v/site-cloner.svg">|[![Downloads](https://pepy.tech/badge/site-cloner)](https://pepy.tech/project/site-cloner)|
-| [movens](https://github.com/Py-Contributors/movens) | CLI/GUI tool to manage files smartly  | ✅ <img src="https://img.shields.io/pypi/v/movens.svg">|[![Downloads](https://pepy.tech/badge/movens)](https://pepy.tech/project/movens)|
+| [Gold Silver Billing](https://github.com/codeperfectplus/GoldSilverBilling)| simplify the process of calculating Gold/Silver prices for jewellers and customers| N/A | N/A |
+| [Sanatio](https://github.com/codeperfectplus/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | <img src="https://img.shields.io/pypi/v/sanatio.svg">| [![Downloads](https://pepy.tech/badge/sanatio)](https://pepy.tech/project/sanatio)|
+| [Morseify](https://github.com/codeperfectplus/morseify)| Document, String, Number, Date, Email, Username, Password Validator for Python | <img src="https://img.shields.io/pypi/v/morseify.svg">|[![Downloads](https://pepy.tech/badge/Morseify)](https://pepy.tech/project/Morseify)|
+| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Lightweight database for Python, with a simple API and a simple file format| <img src="https://img.shields.io/pypi/v/quickdatabase.svg">|[![Downloads](https://pepy.tech/badge/QuickDB)](https://pepy.tech/project/QuickDB)|
+| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |<img src="https://img.shields.io/pypi/v/random-profile.svg"> |[![Downloads](https://pepy.tech/badge/random-profile)](https://pepy.tech/project/random-profile)|
+| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | <img src="https://img.shields.io/pypi/v/audiobook.svg"> |[![Downloads](https://pepy.tech/badge/AudioBook)](https://pepy.tech/project/AudioBook)|
+| [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|[![Downloads](https://pepy.tech/badge/discord-feed-bot)](https://pepy.tech/project/discord-feed-bot)|
+| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|[![Downloads](https://pepy.tech/badge/dataset-convertor)](https://pepy.tech/project/dataset-convertor)|
+| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | <img src="https://img.shields.io/pypi/v/site-cloner.svg">|[![Downloads](https://pepy.tech/badge/site-cloner)](https://pepy.tech/project/site-cloner)|
+| [movens](https://github.com/Py-Contributors/movens) | CLI/GUI tool to manage files smartly  | <img src="https://img.shields.io/pypi/v/movens.svg">|[![Downloads](https://pepy.tech/badge/movens)](https://pepy.tech/project/movens)|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) | N/A|
 | [Stock-Dashboard](https://github.com/codeperfectplus/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: | N/A|
 
 
 ## Up Coming Projects
+
 | Project | Description  |
 | --- | --- |
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation |
