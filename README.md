@@ -50,6 +50,7 @@ if '__repo__' == '__helpful__':
 
 | Project | Description  | Package | Total Download|
 | :--- | :--- | :--- | :---:|
+| [SystemGuard](https://github.com/codeperfectplus/SystemGuard) | Lightweight, user-friendly, and easy-to-set-up server monitoring GUI tool | N/A | N/A |
 | [Gold Silver Billing](https://github.com/codeperfectplus/GoldSilverBilling)| simplify the process of calculating Gold/Silver prices for jewellers and customers| N/A | N/A |
 | [Sanatio](https://github.com/codeperfectplus/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | <img src="https://img.shields.io/pypi/v/sanatio.svg">| [![Downloads](https://pepy.tech/badge/sanatio)](https://pepy.tech/project/sanatio)|
 | [Morseify](https://github.com/codeperfectplus/morseify)| Document, String, Number, Date, Email, Username, Password Validator for Python | <img src="https://img.shields.io/pypi/v/morseify.svg">|[![Downloads](https://pepy.tech/badge/Morseify)](https://pepy.tech/project/Morseify)|
