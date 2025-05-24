@@ -1,9 +1,3 @@
-Here’s a redesigned and enhanced version of your GitHub profile README. The structure is clearer, the visuals are more impactful, and the content is more engaging, especially for developers, recruiters, and open-source collaborators.
-
----
-
-<!-- HEADER IMAGE -->
-
 <img src="assets/img/header.jpg" alt="header" style="width: 100%;" />
 
 ---
