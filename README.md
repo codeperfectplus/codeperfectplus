@@ -6,11 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="Profile Views"/>
   <img src="https://wakatime.com/badge/user/96547f61-7185-4dff-8afa-c81c6df21320.svg" alt="Wakatime Stats"/>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://user-badge.committers.top/india/codeperfectplus"><img src="https://user-badge.committers.top/india/codeperfectplus.svg" /></a>
 </p>
 
 ---
