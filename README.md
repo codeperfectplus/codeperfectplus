@@ -28,15 +28,22 @@
 ```python
 class Deepak(Human):
     """
-    Senior Software Engineer @ Scry AI · 4+ years building Insurance & Healthcare AI 🏥
-    Founder of @Py-Contributors 🐍  |  Top 100 GitHub Contributor in India 🇮🇳
+    Senior Software Engineer @ Scry AI · 6+ years building AI-powered platforms 🧠
+    Full-stack Backend Specialist (Python + TypeScript) 
+    Founder of @Py-Contributors 🐍 | Top 100 GitHub Contributor in India 🇮🇳
     Worked onsite in Osaka 🇯🇵 with AWS & partner teams — precision is a way of life.
     """
 
-    stack      = ["LLMs", "RAG", "Computer Vision", "FastAPI", "pgvector", "Neo4j"]
+    languages  = ["Python", "TypeScript", "JavaScript"]
+    backend    = ["NestJS", "Node.js", "Express", "FastAPI", "Flask", "Django"]
+    frontend   = ["Next.js", "React"]
+    
+    ai_stack   = ["LLMs", "RAG", "Computer Vision", "Agents"]
+    data_stack = ["PostgreSQL", "pgvector", "Neo4j", "Redis"]
+    
     domains    = ["Insurance AI 📄", "Healthcare AI 🏥", "OCR Pipelines 🔍", "KYC Automation ✅"]
-    interests  = ["Open Source ❤️", "AI Agents 🤖", "IoT 🌐", "Teaching 🎓"]
-    currently  = "Modernising COBOL → Python & mentoring the next generation of engineers"
+    interests  = ["Open Source ❤️", "AI Agents 🤖", "System Design 🧩", "IoT 🌐", "Teaching 🎓"]
+    currently  = "Modernising COBOL → Python & building scalable NestJS backends"
     certified  = ["Palantir Data Engineer Associate", "Palantir Foundry Foundations"]
     fun_fact   = "I built an AI baby monitor at 2AM because off-the-shelf ones don't think"
 
@@ -52,9 +59,9 @@ class Deepak(Human):
 🏆  Top 100 Most Active GitHub Contributors — India (committers.top)
 🇯🇵  Worked onsite in Osaka with AWS & AWS Japan on a live production AI system
 🎯  97% accuracy — YOLOv5/FRCNN OCR pipeline for document identification at scale
-🤖  Built open-source AI baby monitor (YOLOv8 + WebSockets) — because necessity wins
+⚙️  Architected scalable NestJS + PostgreSQL backend serving production AI workloads
+🔁  Automated insurance illustration generation — removed entire legacy COBOL layer
 📜  Palantir Certified Data Engineer Associate
-🔁  Automated insurance illustration generation — eliminated entire legacy COBOL layer
 ```
 
 ---
